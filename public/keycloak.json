@@ -1,0 +1,6 @@
+// {
+//     "url": "http://10.185.223.23:8080/", 
+//     "realm": "9psb",
+//     "clientId": "waasportal-frontend", 
+//     "onLoad": "login-required"
+// }
